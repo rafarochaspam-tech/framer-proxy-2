@@ -1,5 +1,12 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://rafaporfolio.framer.website/" }
+    {
+      "source": "/about/video_showcase",
+      "destination": "https://rafaporfolio.framer.website/about/video_showcase"
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://rafaporfolio.framer.website/:path*"
+    }
   ]
 }
