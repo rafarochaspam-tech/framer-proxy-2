@@ -1,5 +1,6 @@
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "https://rafaporfolio.framer.website/" }
+    { "source": "/(.*)", "destination": "https://rafaporfolio.framer.website/about/video-showcase" }
   ]
 }
