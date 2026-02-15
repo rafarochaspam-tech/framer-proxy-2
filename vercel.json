@@ -1,4 +1,7 @@
 {
+  "redirects": [
+    { "source": "/about/video_showcase", "destination": "https://rafaporfolio.framer.website/about/video_showcase", "permanent": true }
+  ],
   "rewrites": [
     {
       "source": "/about/video_showcase",
